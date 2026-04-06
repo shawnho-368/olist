@@ -75,7 +75,7 @@ The lack of clear differentiating factors in transactional data suggests retenti
 3. **Marketplace Structure**: As an aggregator rather than direct retailer, Olist may face brand loyalty challenges
 4. **Unmeasured Factors**: Important drivers like marketing engagement, loyalty programs, and customer service quality aren't captured in transactional data
 
-## Recommendations
+## Next Steps
 
 Because the transactional data revealed no clear differentiators between retained and churned customers, retention in this marketplace is likely influenced by factors outside this dataset. Loyalty program participation, post-purchase engagement, and competitive dynamics are all potential drivers that aren't captured here. Enriching the analysis with these data sources would be the necessary next step to explaining why retention is this low and where intervention would have the most impact
 
