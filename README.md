@@ -77,11 +77,7 @@ The lack of clear differentiating factors in transactional data suggests retenti
 
 ## Recommendations
 
-1. **Develop Loyalty Programs**: Create incentives beyond competitive pricing to encourage repeat purchases
-2. **Category-Specific Strategies**: Focus on categories with recurring purchase patterns (health_beauty, pet_shop)
-3. **Post-Purchase Engagement**: Implement targeted email campaigns and personalized recommendations
-4. **First Purchase Experience**: Build emotional connections and memorable brand experiences
-5. **Seller Quality Programs**: Ensure consistently high seller performance to build marketplace trust
+Because the transactional data revealed no clear differentiators between retained and churned customers, retention in this marketplace is likely influenced by factors outside this dataset. Loyalty program participation, post-purchase engagement, and competitive dynamics are all potential drivers that aren't captured here. Enriching the analysis with these data sources would be the necessary next step to explaining why retention is this low and where intervention would have the most impact
 
 ## Technical Implementation
 
